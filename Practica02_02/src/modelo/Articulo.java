@@ -3,7 +3,7 @@ package modelo;
 
 /**
  *
- * @author Tatiana Cárdenas
+ * @author Tatiana Cárdenas/
  */
 public class Articulo {
     
